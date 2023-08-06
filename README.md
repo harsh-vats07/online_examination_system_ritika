@@ -1,0 +1,15 @@
+# online_examination_system_ritika
+![examin_home](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/c24908a1-938a-4b1f-98b6-23f22188f174)
+![examin_userlogin](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/55249a4f-8965-42b2-9140-e01c1fd805c5)
+![ex_student_dashboard](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/a2b6be4b-00cb-4c83-84ed-ca46308ef38d)
+![ex_givetest](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/fb7d0893-8900-481e-a6f9-d6c17f625300)
+![ex_viewresult](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/f22b167c-cc56-416b-82da-16875c35aba1)
+![ex_view_profile](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/07f4ef33-bc22-4d74-9bd1-edbe170a9f64)
+![ex_changepassword](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/ba6aee3c-9c68-46e8-8f31-42333f608045)
+![admin_login](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/3eb3f4ea-66c1-482c-833f-e0ca5aeb8916)
+![admin_dashboard](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/62494825-c910-4ef0-ad19-64bd3c9cd3ef)
+![add new student](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/21e76022-473a-41e9-b332-c1f8992ba075)
+![add_qa](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/0f6480d3-d729-438c-b222-89ff7e4dd31b)
+![admin_viewstudent](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/68361a86-afa2-4d82-bce9-eecd0315872e)
+![settings](https://github.com/harsh-vats07/online_examination_system_ritika/assets/141484560/7b04ebfa-7d87-424b-858d-57d18e7c878d)
+
